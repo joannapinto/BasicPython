@@ -1,27 +1,47 @@
-1.	3Armstrong: Write a program to determine if a given three-digit number is an Armstrong number. The program should check if the sum of the cubes of its digits equals the number itself.
+Basic Programming Questions Repository
 
-2.	Anagrams: Write a script to check if two given strings are anagrams of each other by comparing their character counts.
+This repository contains solutions to fundamental programming problems designed for beginners. Each problem is implemented in a clear and concise manner to help you learn and practice basic programming concepts.
 
-3.	ExtractChar: Write a program to extract specific characters from a string based on certain conditions, such as positions or patterns.
+Questions Included
 
-4.	Factorial: Write a program to calculate the factorial of a given number, either iteratively or recursively.
+1.	3Armstrong: Determine if a three-digit number is an Armstrong number by checking if the sum of the cubes of its digits equals the number itself.
 
-5.	GCD: Write a script to compute the greatest common divisor (GCD) of two numbers using Euclid's method.
+2.	Anagrams: Check if two strings are anagrams of each other by comparing their character counts.
 
-6.	Palindrome: Write a program to check if a given string or number is a palindrome (reads the same backward as forward).
+3.	ExtractChar: Extract specific characters from a string based on conditions, such as positions or patterns.
 
-7.	PrimeinaRange: Write a script to find and display all prime numbers within a given range.
 
-8.	ReverseString: Write a program to reverse a given string or number.
+4.	Factorial: Calculate the factorial of a given number, either iteratively or recursively.
 
-9.	LeapYear: Write a program to determine if a given year is a leap year.
+5.	GCD: Compute the greatest common divisor (GCD) of two numbers using Euclid's algorithm.
 
-10.	SumOfDigits: Write a program to calculate the sum of the digits of a given number.
+6.	Palindrome: Check if a string or number is a palindrome (reads the same backward as forward).
 
-11.	BinaryToDecimal: Write a program to convert a binary number to its decimal equivalent.
+7.	PrimeinaRange: Find and display all prime numbers within a given range.
 
-12.	LCM: Write a program to compute the least common multiple (LCM) of two numbers.
+8.	ReverseString: Reverse a given string or number.
 
-13.	CountVowelsConsonants: Write a program to count the number of vowels and consonants in a given string.
+9.	LeapYear: Determine if a given year is a leap year based on calendar rules.
+
+10.	SumOfDigits: Calculate the sum of the digits of a number.
+
+11.	BinaryToDecimal: Convert a binary number to its decimal equivalent.
+
+12.	LCM: Compute the least common multiple (LCM) of two numbers.
+
+13.	CountVowelsConsonants: Count the number of vowels and consonants in a given string.
+
+How to Use
+
+1.	Clone this repository
+2.	Navigate to the repository folder
+3.	Run the programs using your preferred programming environment or editor. Each file is self-contained and includes a solution for the respective question.
+
+Contribution
+
+Contributions are welcome! Feel free to submit pull requests for:
+•	Additional solutions.
+•	Optimized code implementations.
+•	Improvements to documentation.
 
 
